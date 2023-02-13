@@ -13,17 +13,9 @@ footer{
     margin-top: 2%;
 }
 
-main{
-    padding-left: 27%;
-    padding-right: 27%;
-}
-
-
-
 .logo{
     width: 15%;
     margin-top: 2%;
-    padding-left: 27%;
 }
 
 .titolo-articolo{
@@ -81,7 +73,7 @@ thead{
 .art-cons1{
     background-image: url(img/monitor.jpg);
     background-repeat: no-repeat;
-    padding-bottom: 18%;
+    padding-bottom: 8%;
     padding-top: 15px;
     padding-left: 10px;
 
@@ -90,7 +82,7 @@ thead{
 .art-cons2{
     background-image: url(img/graph.jpg);
     background-repeat: no-repeat;
-    padding-bottom: 18%;
+    padding-bottom: 9%;
     padding-top: 15px;
     padding-left: 10px;
 
