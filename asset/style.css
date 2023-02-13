@@ -9,6 +9,10 @@ section{
     margin-bottom: 1%;
 }
 
+footer{
+    margin-top: 2%;
+}
+
 .logo{
     width: 15%;
     margin-top: 2%;
@@ -21,7 +25,7 @@ section{
 
 .autore-1{
     color: grey;
-    font-size: 140%;  
+    font-size: 110%;  
 }
 
 .autore-2{
@@ -64,4 +68,27 @@ thead{
 
 .t-space{
     width: 20%;
+}
+
+.art-cons1{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 8%;
+    padding-top: 15px;
+    padding-left: 10px;
+
+}
+
+.art-cons2{
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 9%;
+    padding-top: 15px;
+    padding-left: 10px;
+
+}
+
+.art-constxt{
+    color: beige;
+    font-size: larger;
 }
