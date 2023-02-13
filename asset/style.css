@@ -4,6 +4,11 @@ header{
     
 }
 
+section{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
 .logo{
     width: 15%;
     margin-top: 2%;
@@ -26,4 +31,8 @@ header{
 .data{
     font-size: 90%;
     color: grey;
+}
+
+.descrizione-foto{
+    font-size: 80%;
 }
