@@ -36,3 +36,11 @@ section{
 .descrizione-foto{
     font-size: 80%;
 }
+
+.testo-importante{
+    background-color: yellow;
+}
+
+.lista{
+    margin-left: -1%;
+}
