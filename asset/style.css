@@ -1,0 +1,29 @@
+header{
+    background-image: url(img/pattern.png);
+    background-size: 25%;
+    
+}
+
+.logo{
+    width: 15%;
+    margin-top: 2%;
+}
+
+.titolo-articolo{
+    font-size: xxx-large;
+    margin: 20px 0px 4px;
+}
+
+.autore-1{
+    color: grey;
+    font-size: 140%;  
+}
+
+.autore-2{
+    color: rgb(44, 211, 223);
+}
+
+.data{
+    font-size: 90%;
+    color: grey;
+}
